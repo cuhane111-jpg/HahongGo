@@ -1,0 +1,6 @@
+HAHONGGO 4.6 MOBILE
+1. Giải nén ZIP.
+2. Vào Netlify > dự án jolly-speculoos-d6746b > Deploys.
+3. Kéo thư mục HahongGo_PWA_4_6_Mobile (chứa index.html) vào khung tải lên.
+4. Mở lại app HahongGo trên iPhone/Android. Nếu vẫn là bản cũ, đóng app hoàn toàn rồi mở lại khi có Internet.
+Bản 4.6: giao diện chiến đấu gọn, mục tiêu gần ô nhập, phím gợi ý chữ tiếp theo, tùy chỉnh ẩn/mở, giữ gara/cửa hàng/boss.

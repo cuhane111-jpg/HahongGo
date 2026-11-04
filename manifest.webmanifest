@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "HahongGo 4.6 – Space Battle",
+  "short_name": "HahongGo",
+  "description": "Game học tiếng Nhật bằng cách gõ Romaji và chiến đấu trong vũ trụ.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#130d2b",
+  "theme_color": "#130d2b",
+  "orientation": "any",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
